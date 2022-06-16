@@ -10,3 +10,4 @@ Desafio 1 DIO, create repository
 - git coonfig
 - git clone
 - SSH and Token for login GITHUB
+- git remote
